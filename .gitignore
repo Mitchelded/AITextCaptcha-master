@@ -1,0 +1,7 @@
+train/*
+code/image.jpeg
+code/solver.py.old
+output*
+train/
+*.jpeg
+*.jpg
